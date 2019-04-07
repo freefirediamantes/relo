@@ -1,0 +1,25 @@
+{
+    "name": "free-fire-battlegrounds-hack-08042019/free-fire-battlegrounds-hack",
+    "description": "Garena Free Fire Hack Diamonds ",
+    "homepage": "https://github.com/adelajdarakowska4/relo/",
+	"keywords": ["Garena Free Fire hack","Garena Free Fire cheats"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK Here Garena Free Fire Generator Hack",
+            "homepage": "https://dis.rocks/xchn9",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
